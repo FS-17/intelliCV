@@ -1,0 +1,6 @@
+# Allow all crawling
+User-agent: *
+Allow: /
+
+# Update to your production domain
+Sitemap: https://intellicv.example.com/sitemap.xml
