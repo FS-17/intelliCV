@@ -24,7 +24,7 @@ IntelliCV is an AI-powered CV and resume builder that helps job seekers create t
 
 ## 🌐 Live Demo
 
-Visit [IntelliCV](https://https://fs-17.github.io/intelliCV/) to try out.
+Visit [IntelliCV](https://fs-17.github.io/intelliCV/) to try out.
 
 ## 📝 License
 
